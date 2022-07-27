@@ -22,7 +22,7 @@ put the tracker name in  ./utils/cofig_tracker.m like:
         struct('name', 'ATOM',      'publish', 'NA') ...
         struct('name', 'DiMP',      'publish', 'NA')
         }
-   ```
+ ```
 
 ## Custom TestSet Setting
 put the evaluate sequences in sequence_evaluation_config like:
